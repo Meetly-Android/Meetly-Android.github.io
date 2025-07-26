@@ -1,6 +1,6 @@
 # Meetly – A simple, easy-to-use offline application with a focus on managing your meetings.
 
-<p style="text-align: center"><img src="assets/screenshot/screenshot.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/2.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/3.png?raw=true" alt="" width="250" height="450" /></p>
+<p style="text-align: center"><img src="assets/screenshot/screenshot.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/screenshot1.png?raw=true" alt="" width="250" height="450" /> <img src="assets/screenshot/screenshot2.png?raw=true" alt="" width="250" height="450" /></p>
 
 Meetly is a lightweight, easy-to-use app designed to help you stay on top of your meetings—without relying on the internet. Meetly lets you create, organize, and track all of your meetings in one place. It’s perfect for users who want a simple, distraction-free experience.
 

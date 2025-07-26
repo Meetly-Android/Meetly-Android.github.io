@@ -71,7 +71,23 @@
     <string name="sort_alphabetic">Sort Alphabetically</string>
     <string name="sort_descending">Sort Descending</string>
     <string name="sort_time">Sort by Time</string>
+    <string name="start">Start</string>
+    <string name="version_info">Meetly %s</string>
     <string name="text_invalid_message">The selected text is invalid. Operation aborted!</string>
     <string name="time_invalid_message">The selected time \"%s\" is in the past or too close. Operation aborted!</string>
+    <string name="welcome_page_backup_title">📁 Backup &amp; Restore</string>
+    <string name="welcome_page_backup_text">Export your meetings data for safekeeping and easily restore it whenever you need.</string>
+    <string name="welcome_page_ease_title">🗓️ Create &amp; manage meetings easily</string>
+    <string name="welcome_page_ease_text">Add all the important details like date, time, location, and purpose to keep your schedule clear and organized.</string>
+    <string name="welcome_page_main_title">🎉 Welcome to Meetly</string>
+    <string name="welcome_page_main_text">A modern, secure, and easy-to-use offline application with a focus on managing your meetings.</string>
+    <string name="welcome_page_offline_title">🚫 Offline-First Design</string>
+    <string name="welcome_page_offline_text">Use Meetly completely without an internet connection or account — your data stays private and stored only on your device.</string>
+    <string name="welcome_page_reminders_title">🔔 Optional Notifications</string>
+    <string name="welcome_page_reminders_text">Set reminders for your meetings so you never miss an important event.</string>
+    <string name="welcome_page_security_title">🔒 Secure Your Meetings</string>
+    <string name="welcome_page_security_text">Protect your information with PIN or biometric authentication for peace of mind.</string>
+    <string name="welcome_page_share_title">📷 Quick Sharing</string>
+    <string name="welcome_page_share_text">Share meeting details quickly via QR codes or files with other Meetly users.</string>
     <string name="yes">Yes</string>
 </resources>
