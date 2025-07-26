@@ -12,15 +12,15 @@ enable_smart_app_banner                   : true
 # Features
 features                                  :
 
-  - title                                 : Plan smarter, stay organized.
+  - title                                 : Plan smarter, stay organized
     description                           : Meetly makes managing meetings simple and stress-free
     fontawesome_icon_name                 : magic
 
-  - title                                 : Privacy-friendly
+  - title                                 : No Ads. No Tracking. Just You
     description                           : Meetly respects your privacy (no ads, no tracking. Just you and your meetings)
     fontawesome_icon_name                 : user-secret
 
-  - title                                 : Compatibility
+  - title                                 : Designed for Android, Built for You
     description                           : Supports Android 11 (R) and above, compatible with dark and light modes, etc.
     fontawesome_icon_name                 : mobile-alt
 
