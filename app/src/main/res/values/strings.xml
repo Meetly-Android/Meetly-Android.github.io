@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name" translatable="false">Meetly</string>
+
+    <string name="activated">Activated</string>
+    <string name="app_exit_confirmation">Press the back button again to exit Meetly</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="authentication_error">Authentication error: %s</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="biometric_lock">Biometric Lock</string>
+    <string name="biometric_lock_status">Biometric authentication is %s</string>
+    <string name="biometric_lock_summary">Use biometric authentication to secure your Meetly app</string>
+    <string name="cancel">Cancel</string>
+    <string name="copyright_text" translatable="false">2025 sunilpaulmathew</string>
+    <string name="database">Database</string>
+    <string name="database_backup">Backup Database</string>
+    <string name="database_backup_message">The database has been backed up to the \"%s\" folder</string>
+    <string name="database_backup_summary">Backup Meetly\'s database file to your device storage</string>
+    <string name="database_clear">Clear Database</string>
+    <string name="database_clear_message">Are you sure you want to delete all meetings in Meetly? This action cannot be undone.</string>
+    <string name="database_clear_summary">Permanently delete all meetings from the database</string>
+    <string name="database_restore">Restore Database</string>
+    <string name="database_restore_message">Do you want to restore meetings from the selected file?</string>
+    <string name="database_restore_summary">Restore meetings from a previously exported Meetly database file</string>
+    <string name="disabled">Disabled</string>
+    <string name="file_invalid_message">The selected file is invalid. Operation aborted!</string>
+    <string name="import_text">Import from File</string>
+    <string name="meeting_add">Add New</string>
+    <string name="meeting_backup_alert_message">The selected meeting has been backed up to the \"%s\" folder. You can share this file with other Meetly users involved in the meeting so they can quickly import it into their app.</string>
+    <string name="meeting_backup_toast_message">The selected meeting has been backed up to the \"%s\" folder</string>
+    <string name="meeting_date">Date</string>
+    <string name="meeting_delete_question">Delete \"%s\"?</string>
+    <string name="meeting_location">Location</string>
+    <string name="meeting_modify_title">Edit Meeting</string>
+    <string name="meeting_notification_title">You have a scheduled meeting!</string>
+    <string name="meeting_purpose">Purpose</string>
+    <string name="meeting_schedule_title">Schedule a Meeting</string>
+    <string name="meeting_with">Meeting With</string>
+    <string name="meetings_empty_message">No meetings scheduled. Tap the button below to add a new one!</string>
+    <string name="meetings_empty_toast_message">This will disappear once you schedule your first meeting</string>
+    <string name="meetings_scheduled">Scheduled Meetings</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_accepted_message">I’m in</string>
+    <string name="notifications_denied_message">Opt out</string>
+    <string name="notifications_enable">Enable Notifications</string>
+    <string name="notifications_message">Get notified about your meetings! You can change this setting anytime in the app preferences.</string>
+    <string name="ok">OK</string>
+    <string name="pin_enter">Enter PIN</string>
+    <string name="pin_reenter">Re-enter PIN</string>
+    <string name="pin_mismatch_message">PINs don’t match. Please try again.</string>
+    <string name="pin_protection">PIN Protection</string>
+    <string name="pin_protection_status">PIN protection is %s</string>
+    <string name="pin_protection_summary">Secure Meetly with a 4-digit PIN</string>
+    <string name="permission_denied_message">Notification permission denied. Operation aborted!</string>
+    <string name="qr_code_generate_error_message">Unable to generate QR code</string>
+    <string name="qr_code_generate_alert_message">You can share this QR code with other Meetly users involved in the meeting so they can easily import it into their app.</string>
+    <string name="qr_code_import">Import from QR Code</string>
+    <string name="qr_code_invalid_message">Invalid QR code. Operation aborted!</string>
+    <string name="qr_code_scan">Scan QR Code</string>
+    <string name="reminder_window">Reminder time: %s minutes</string>
+    <string name="reminder_window_description">Remind me about meetings %s minutes in advance</string>
+    <string name="reminder_window_warning">Note: All reminders sent from Meetly are approximate and may occasionally be delayed.</string>
+    <string name="schedule">Schedule</string>
+    <string name="security">Security</string>
+    <string name="settings">Settings</string>
+    <string name="shared_by">Shared via Meetly %s</string>
+    <string name="shared_by_message">Get Meetly %s — your personal meeting organizer — on Google Play: https://play.google.com/store/apps/details?id=in.sunilpaulmathew.meetly</string>
+    <string name="share_with">Share With</string>
+    <string name="share_now">Share Now</string>
+    <string name="share_text_message">The above text can be directly imported into Meetly by:\n1. Selecting the text\n2. Sharing it and choosing Meetly\n</string>
+    <string name="sort_ascending">Sort Ascending</string>
+    <string name="sort_alphabetic">Sort Alphabetically</string>
+    <string name="sort_descending">Sort Descending</string>
+    <string name="sort_time">Sort by Time</string>
+    <string name="text_invalid_message">The selected text is invalid. Operation aborted!</string>
+    <string name="time_invalid_message">The selected time \"%s\" is in the past or too close. Operation aborted!</string>
+    <string name="yes">Yes</string>
+</resources>

@@ -1,0 +1,79 @@
+# Title
+page_title                                : Meetly
+
+playstore_link                            :
+app_icon                                  : assets/appicon.png
+app_name                                  : Meetly
+app_price                                 : Paid
+app_description                           : A simple, easy-to-use offline application with a focus on managing your meetings.
+
+enable_smart_app_banner                   : true
+
+# Features
+features                                  :
+
+  - title                                 : Plan smarter, stay organized.
+    description                           : Meetly makes managing meetings simple and stress-free
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Privacy-friendly
+    description                           : Meetly respects your privacy (no ads, no tracking. Just you and your meetings)
+    fontawesome_icon_name                 : user-secret
+
+  - title                                 : Compatibility
+    description                           : Supports Android 11 (R) and above, compatible with dark and light modes, etc.
+    fontawesome_icon_name                 : mobile-alt
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : blue
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
