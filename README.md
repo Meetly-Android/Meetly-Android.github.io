@@ -3,6 +3,7 @@
 Meetly is a lightweight, easy-to-use app designed to help you stay on top of your meetings—without relying on the internet. Meetly lets you create, organize, and track all of your meetings in one place. It’s perfect for users who want a simple, distraction-free experience.
 
 🔑 Key Features:
+
     🗓️ Create and manage meetings easily
     Add important details like date, time, location, and purpose.
 
@@ -28,3 +29,7 @@ Meetly is a private and minimalistic meeting manager—no ads, no tracking. Just
     👨‍💼 Professionals who prefer simple tools
     🎓 Students managing study groups
     🎯 Anyone who wants to stay organized—offline
+
+## Downloads
+
+🚧 Downloads section is currently a work in progress. Stay tuned!
