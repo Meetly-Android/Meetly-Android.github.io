@@ -34,4 +34,6 @@ Meetly is a private and minimalistic meeting manager—no ads, no tracking. Just
 
 ## Downloads
 
-🚧 Downloads section is currently a work in progress. Stay tuned!
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+alt=""
+height="80">](https://play.google.com/store/apps/details?id=in.meetly.android)

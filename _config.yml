@@ -1,10 +1,9 @@
 # Title
 page_title                                : Meetly
 
-playstore_link                            :
+playstore_link                            : https://play.google.com/store/apps/details?id=in.meetly.android
 app_icon                                  : assets/appicon.png
 app_name                                  : Meetly
-app_price                                 : Paid
 app_description                           : A simple, easy-to-use offline application with a focus on managing your meetings.
 
 enable_smart_app_banner                   : true
