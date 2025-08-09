@@ -32,7 +32,11 @@ Meetly is a private and minimalistic meeting manager—no ads, no tracking. Just
     🎓 Students managing study groups
     🎯 Anyone who wants to stay organized—offline
 
-## Downloads
+🙏 Acknowledgements:
+
+👤 [Daniel Schlapa](https://schlapa.net) for the valuable suggestions and testing
+
+⬇️ Downloads:
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
 alt=""

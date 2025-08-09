@@ -25,9 +25,11 @@ We do not collect, store, or share any personal information about our users. Use
 Meetly requires the following permissions to deliver its features:
 
 1. *CAMERA*: Used to scan QR codes for quickly importing or sharing meeting details with other Meetly users.
-2. *POST_NOTIFICATIONS*: Allows the app to send optional meeting reminders and alerts to keep you informed.
-3. *USE_BIOMETRIC*: Required to enable biometric authentication (e.g., fingerprint) for securing AppSigner.
-4. *VIBRATE*: Enables subtle vibration feedback for notifications and in-app alerts, improving user experience.
+2. *INTERNET*: Allows the app to fetch location data from www.openstreetmap.org to provide location suggestions.
+3. *POST_NOTIFICATIONS*: Allows the app to send optional meeting reminders and alerts to keep you informed.
+4. *READ_CONTACTS*: Used to autofill participant details from your address book.
+5. *USE_BIOMETRIC*: Required to enable biometric authentication (e.g., fingerprint) for securing AppSigner.
+6. *VIBRATE*: Enables subtle vibration feedback for notifications and in-app alerts, improving user experience.
 
 <h3 style="color: green">Contact Us</h3>
 

@@ -2,6 +2,7 @@
     <string name="app_name" translatable="false">Meetly</string>
 
     <string name="activated">Activated</string>
+    <string name="allow">Allow</string>
     <string name="app_exit_confirmation">Press the back button again to exit Meetly</string>
     <string name="authenticate">Authenticate</string>
     <string name="authentication_error">Authentication error: %s</string>
@@ -10,6 +11,13 @@
     <string name="biometric_lock_status">Biometric authentication is %s</string>
     <string name="biometric_lock_summary">Use biometric authentication to secure your Meetly app</string>
     <string name="cancel">Cancel</string>
+    <string name="choose_contacts">Choose contacts</string>
+    <string name="choose_location">Choose location</string>
+    <string name="clock_style_24">24-hour clock</string>
+    <string name="clock_style_24_summary">Use the 24-hour format when picking a time. This may not affect how meeting times are shown in the main interface.</string>
+    <string name="contact_access_denied_message">Contacts access denied! To use this feature, please grant permission manually via App Info > Permissions.</string>
+    <string name="contact_access_granted_message">Contacts access granted! Tap the contact button again to get started.</string>
+    <string name="contact_access_message">Allow Meetly to access your contacts. We only use this permission to automatically fill in the \'%s\' column with your contact names. Your data stays private and secure.</string>
     <string name="copyright_text" translatable="false">2025 sunilpaulmathew</string>
     <string name="database">Database</string>
     <string name="database_backup">Backup Database</string>
@@ -21,8 +29,12 @@
     <string name="database_restore">Restore Database</string>
     <string name="database_restore_message">Do you want to restore meetings from the selected file?</string>
     <string name="database_restore_summary">Restore meetings from a previously exported Meetly database file</string>
+    <string name="data_loading_failed">Failed to load data…</string>
+    <string name="developer_contact">Contact developer</string>
+    <string name="developer_contact_description">Need help or have feedback? Contact the developer</string>
     <string name="disabled">Disabled</string>
     <string name="file_invalid_message">The selected file is invalid. Operation aborted!</string>
+    <string name="general">General</string>
     <string name="import_text">Import from File</string>
     <string name="meeting_add">Add New</string>
     <string name="meeting_backup_alert_message">The selected meeting has been backed up to the \"%s\" folder. You can share this file with other Meetly users involved in the meeting so they can quickly import it into their app.</string>
@@ -38,6 +50,7 @@
     <string name="meetings_empty_message">No meetings scheduled. Tap the button below to add a new one!</string>
     <string name="meetings_empty_toast_message">This will disappear once you schedule your first meeting</string>
     <string name="meetings_scheduled">Scheduled Meetings</string>
+    <string name="miscellaneous">Miscellaneous</string>
     <string name="notifications">Notifications</string>
     <string name="notifications_accepted_message">I’m in</string>
     <string name="notifications_denied_message">Opt out</string>
@@ -51,6 +64,8 @@
     <string name="pin_protection_status">PIN protection is %s</string>
     <string name="pin_protection_summary">Secure Meetly with a 4-digit PIN</string>
     <string name="permission_denied_message">Notification permission denied. Operation aborted!</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_description">Your privacy matters: Learn more</string>
     <string name="qr_code_generate_error_message">Unable to generate QR code</string>
     <string name="qr_code_generate_alert_message">You can share this QR code with other Meetly users involved in the meeting so they can easily import it into their app.</string>
     <string name="qr_code_import">Import from QR Code</string>
@@ -61,9 +76,10 @@
     <string name="reminder_window_warning">Note: All reminders sent from Meetly are approximate and may occasionally be delayed.</string>
     <string name="schedule">Schedule</string>
     <string name="security">Security</string>
+    <string name="select">Select</string>
     <string name="settings">Settings</string>
     <string name="shared_by">Shared via Meetly %s</string>
-    <string name="shared_by_message">Get Meetly %s — your personal meeting organizer — on Google Play: https://play.google.com/store/apps/details?id=in.sunilpaulmathew.meetly</string>
+    <string name="shared_by_message">Get Meetly %s — your personal meeting organizer — on Google Play: https://play.google.com/store/apps/details?id=in.meetly.android</string>
     <string name="share_with">Share With</string>
     <string name="share_now">Share Now</string>
     <string name="share_text_message">The above text can be directly imported into Meetly by:\n1. Selecting the text\n2. Sharing it and choosing Meetly\n</string>
